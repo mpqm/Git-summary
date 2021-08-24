@@ -1,30 +1,28 @@
-Git 명령어
-Help : git help config
-git 설정하기
+gitcommand
+help : git help config
 
-사용자설정 : git config —global user.name “babo”
-메일설정 : git config —global user.mail “babo@babo.com”
-config확인
+set user, mail
+git config —global user.name “mpqm”
+git config —global user.mail “mpqm@ddd.com”
+
+check config
 git config —list
 git config user.name
-최초 설정 확인 : git config —show-origin user.name
-End of Line
-시스템설정대로 : git config —global core.eof native
-시스템설정대로 : git config —global core.autcrlf false
-Diff 결과 Highlighting 하기 : git config -global pager.diff ‘diff-highlight | less’
-로컬저장소만들기
+git config —show-origin user.name
+
+make localstorage
 
 mkdir project
 cd project
 git init
 git add *.c
-git commit -m “My first version managing directory”
-저장소 내려받기
+git commit -m “My first committ”
 
-git clone id@원격저장소_URL
-git clone /로컬저장소/저장소
-File 상태 확인(Tracked : Modified/Unmodified/Staged, Untracked : Unstaged)
+download storage
+git clone id@storage_URL
+git clone /localstorage/storage
 
+check file status
 git status
 git status -s :
 : OO filename
