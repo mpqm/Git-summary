@@ -28,8 +28,16 @@
   * pull branch from remote server : git pull origin <branchname>
  
 * clone
-  * clone & download sourcecode : git clone <cloneurl>
-  * clone localrepo : git clone /local/repo/path
-  * clone remoteserverrepo
- 
+  * clone code : git clone <cloneurl>
+  * clone branch : git clone -b <branchname> <cloneurl>
+
+* status
+  * check file status : git status
+
+* pull
+* remote
+* merge
+*tag
+*fetch
+
   
