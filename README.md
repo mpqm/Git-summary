@@ -1,9 +1,8 @@
-* **using git**
-* 
+* **git**
 
 * generate new stroage
   * in project path ex)c:\project\projectname
-   * git init
+    * git init
 * commit 
   * git add -A
   * git commit -m "first commit"
