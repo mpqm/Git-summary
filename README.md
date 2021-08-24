@@ -1,14 +1,14 @@
-1. androidstudio -> github
+androidstudio -> github
  
-in project path ex)c:\androidproject\git 
+ in project path ex)c:\androidproject\git 
 
-git init
+ git init
 
-git add -A
+ git add -A
 
-git commit -m "first commit"
+ git commit -m "first commit"
+ 
+ git remote add origin (your repo url)
 
-git remote add origin (your repo url)
-
-git push -f origin master
+ git push -f origin master
 
