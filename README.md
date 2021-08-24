@@ -1,4 +1,4 @@
-androidstudio -> github
+#androidstudio -> github
  
  in project path ex)c:\androidproject\git 
 
