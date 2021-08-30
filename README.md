@@ -1,7 +1,6 @@
 **git**
 
 *scenario*
-
 * first send to github
   * git init
   * git add -A
@@ -16,8 +15,8 @@
   * git remote add origin <repourl>
   * git push -u origin <branch name
 
+                               
 *command*
-
 * branch
   * list of branch : git branch
   * generate new branch(in local) : git branch <branchname>
