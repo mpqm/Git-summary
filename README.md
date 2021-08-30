@@ -34,9 +34,9 @@
 * status
   * check file status : git status
 
-* pull
-* remote
-* merge
+*pull
+*remote
+*merge
 *tag
 *fetch
 
