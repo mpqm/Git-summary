@@ -1,14 +1,14 @@
-**git**
+**Git**
 
-**scenario**
-* first send to github
+**Scenario**
+* First send to github
   * git init
   * git add -A
   * git commit -m "first commit"
   * git remote add origin <repourl>
   * git push -u origin master
 
-* send branch to github
+* Send branch to github
   * git checkout -b <branchname>
   * git add -A
   * git commit -m "first branch"
@@ -16,7 +16,7 @@
   * git push -u origin <branch name
 
                                
-**command**
+**Command**
 * branch
   * list of branch : git branch
   * generate new branch(in local) : git branch <branchname>
