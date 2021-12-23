@@ -15,26 +15,26 @@
 
                                
 **Command**
-* branch
-  * list of branch : git branch
-  * generate new branch(in local) : git branch <branchname>
-  * delete brach : git branch -d <branchname>
-  * generate new branch & move : git checkout -b <branchname>
-  * back master branch : git checkout master
-  * send branch to remote server : git push origin <branchname>
-  * pull branch from remote server : git pull origin <branchname>
+* Branch
+  * List of branch : git branch
+  * Generate new branch(in local) : git branch <branchname>
+  * Delete brach : git branch -d <branchname>
+  * Generate new branch & move : git checkout -b <branchname>
+  * Back master branch : git checkout master
+  * Send branch to remote server : git push origin <branchname>
+  * Pull branch from remote server : git pull origin <branchname>
  
-* clone
-  * clone code : git clone <cloneurl>
-  * clone branch : git clone -b <branchname> <cloneurl>
+* Clone
+  * Clone code : git clone <cloneurl>
+  * Clone branch : git clone -b <branchname> <cloneurl>
 
-* status
+* Status
   * check file status : git status
 
-* pull
-* remote
-* merge
-* tag
-* fetch
+* Pull
+* Remote
+* Merge
+* Tag
+* Fetch
 
   
