@@ -1,5 +1,3 @@
-**Git**
-
 **Scenario**
 * First send to github
   * git init
